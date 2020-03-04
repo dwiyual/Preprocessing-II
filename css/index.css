@@ -168,6 +168,24 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.fun-bus-logo {
+  margin-right: 30%;
+  margin-left: 10%;
+}
+.nav-links-container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+a {
+  justify-content: space-between;
+  align-items: center;
+  font-size: 2rem;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
