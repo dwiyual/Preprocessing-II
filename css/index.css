@@ -171,6 +171,7 @@ img {
 .navbar {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .fun-bus-logo {
   margin-left: 5%;
@@ -251,4 +252,9 @@ a {
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
+}
+.head-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
